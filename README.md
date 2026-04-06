@@ -9,7 +9,8 @@ Students' Performance Dataset (Kaggle)
 https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset
 
 ## Kaggle Notebook (Execution Environment):
-https://www.kaggle.com/code/sabrinamahadir/predicting-students-grades/edit
+[https://www.kaggle.com/code/sabrinamahadir/predicting-students-grades/edit](https://www.kaggle.com/code/sabrinamahadir/predicting-students-grades)
+
 
 ## Description:   
 This repository reproduces the machine learning pipeline used to predict student academic performance.  
